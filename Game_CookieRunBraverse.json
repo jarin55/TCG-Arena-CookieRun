@@ -1,5 +1,5 @@
 {
-  "name": "Cookie Run Braverse",
+  "name": "CookieRunBraverse",
   "menuBackgroundImage": "https://cookierunbraverse.com/images/common/logo_en.webp",
   "defaultRessources": {
     "backgrounds": [
@@ -10,7 +10,7 @@
   "customHelp": "",
   "cardRotation": 45,
   "cards": {
-    "dataUrl": "https://jarin55.github.io/TCG-Arena-CookieRun/CardList.generated.json",
+    "dataUrl": "https://jarin55.github.io/TCG-Arena-CookieRun/CardList.json",
     "cardBack": "https://cookierunbraverse.com/images/card/card-back.png"
   },
   "deckBuilding": {
@@ -20,7 +20,7 @@
     ],
     "formats": [
       {
-        "title": "CookieRunBraverse",
+        "title": "Classic",
         "gameplay": "Classic",
         "customCategories": []
       }
