@@ -1,5 +1,5 @@
 {
-  "name": "Cookie Run Braverse",
+  "name": "CookieRunBraverse",
   "menuBackgroundImage": "https://cookierunbraverse.com/images/common/logo_en.webp",
   "defaultRessources": {
     "backgrounds": [
@@ -45,7 +45,8 @@
         "customSections": [
           "Mana",
           "BreakArea",
-          "StageArea"
+          "StageArea",
+          "BattleArea"
         ],
         "layout": {
           "direction": "row",
