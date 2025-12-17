@@ -1,5 +1,5 @@
 {
-  "name": "CookieRunBraverse",
+  "name": "Cookie Run Braverse",
   "menuBackgroundImage": "https://cookierunbraverse.com/images/common/logo_en.webp",
   "defaultRessources": {
     "backgrounds": [
@@ -18,7 +18,13 @@
       "Type",
       "Name"
     ],
-    "formats": []
+    "formats": [
+      {
+        "title": "CookieRunBraverse",
+        "gameplay": "Classic",
+        "customCategories": []
+      }
+    ]
   },
   "gameplay": {
     "Classic": {
