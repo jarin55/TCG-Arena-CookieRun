@@ -1,0 +1,18 @@
+{
+  "BS8-002": {
+    "id": "BS8-002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cilantro Cobra Swordsman",
+        "type": "Cookie",
+        "cost": 0,
+        "image": "https://assets.cookierunbraverse.com/braverse/images/card_webp/card/en/BS8_002.png.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cilantro Cobra Swordsman",
+    "type": false,
+    "cost": 0
+  }
+}
