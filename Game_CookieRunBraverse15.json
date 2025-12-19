@@ -61,9 +61,11 @@
             {
               "section": "BreakArea",
               "style": {
-                "width": "30vh"{
+                "width": "30vh"
+                {
                 "height": "100vh"
               }
+            }
             },
             {
               "direction": "column",
